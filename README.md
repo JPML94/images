@@ -2,7 +2,7 @@
 
 ### VueX:
 
-- Stategit remote add origin https://github.com/JPML94/images.git
+- State
     - token | null
 
 - Getters
