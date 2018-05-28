@@ -1,8 +1,8 @@
-## Vue Aplication that handles auth with the Imgur API, a user can see their picture library and upload files to it.
+## Vue Aplication // Imgur Auth // File Upload
 
 ### VueX:
 
-- State
+- Stategit remote add origin https://github.com/JPML94/images.git
     - token | null
 
 - Getters
