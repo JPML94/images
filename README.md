@@ -2,6 +2,8 @@
 
 ### VueX:
 
+#### Auth Store Module:
+
 - State
     - token | null
 
